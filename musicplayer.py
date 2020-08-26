@@ -5,7 +5,8 @@ client = discord.Client()
 
 music = {
     'コマンド1':'音源.mp3',
-    'コマンド2':'音源2.mp3'
+    'コマンド2':'音源2.mp3',
+    'コマンドn':'音源n.mp3'
 }
 
 @client.event
